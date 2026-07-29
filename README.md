@@ -1,7 +1,7 @@
 # Geometry Distortion-Aware 3D-Mesh Steganalysis Based on Spatial Representation Learning
 [![Paper](https://img.shields.io/badge/Paper-TMM%202026-blue)](https://doi.org/10.1109/TMM.2026.3715306)
 
-This repository provides the official PyTorch implementation of “Geometry Distortion-Aware 3D Mesh Steganalysis Based on Spatial Representation Learning.”
+This repository provides the PyTorch implementation of the mesh distortion encoder proposed in “Geometry Distortion-Aware 3D Mesh Steganalysis Based on Spatial Representation Learning.”
 
 # Introduction
 This work is published on IEEE Transactions on Multimedia (TMM), 2026.
@@ -22,3 +22,6 @@ If you find our work useful in your research, please consider citing:
   keywords={Distortion;Faces;Modeling;Steganography;Signal detection;Educational institutions;Payloads;Accuracy;Visualization;Filtering;3D-Mesh;steganalysis;separable convolution;distortion representation},
   doi={10.1109/TMM.2026.3715306}}
 ```
+## Contact
+If you have any questions or suggestions, please feel free to contact us:
+- **Email:** quincyji2020@163.com
